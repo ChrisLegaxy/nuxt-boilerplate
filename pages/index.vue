@@ -1,7 +1,5 @@
 <template>
   <main>
-    <div>
-      Hello wow
-    </div>
+    <div>Hello wowww</div>
   </main>
 </template>
